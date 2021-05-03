@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mandres2
 - 👀 I’m interested in: Data Science, Machine Learning, and Cloud Functions
 - 🌱 I’m currently learning: AWS Cloud Foundations and Cloud Architecture
-- 💞️ I’m looking to collaborate on: any Python project
+- 💞️ I’m looking to collaborate on: any python project or any MERN projects
 - 📫 How to reach me: limbo.linux.dev@gmail.com
 
 <!---
