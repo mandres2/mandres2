@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mandres2
-- 👀 I’m interested in: Network Penetration, Ethical Hacking, and Cloud Foundations/Functions
-- 🌱 I’m currently learning: AWS Cloud Foundations and Cloud Architecture
-- 💞️ I’m looking to collaborate on: any python project or any MERN projects
+- 👀 I’m interested in: Ethical Hacking, Network Penetration, and Cloud Framework/Architecture 
+- 🌱 I’m currently learning: Microsoft Azure Fundamentals
 - 📫 How to reach me: limbo.linux.dev@gmail.com
 
 <!---
