@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandres2
-- 👀 I’m interested in: Ethical Hacking, Network Penetration, and Cloud Framework/Architecture 
-- 🌱 I’m currently learning: Microsoft Azure Fundamentals
+- 👀 I’m interested in: Ethical Hacking, and Network Penetration
+- 🌱 I’m currently learning: PenTest+
 - 📫 How to reach me: limbo.linux.dev@gmail.com
 
 <!---
