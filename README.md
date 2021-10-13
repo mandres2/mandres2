@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mandres2
-- 👀 I’m interested in: Ethical Hacking, and Network Penetration
-- 🌱 I’m currently learning: PenTest+
+- 🌱 I’m currently learning: DAX Functions
 - 📫 How to reach me: limbo.linux.dev@gmail.com
 
 <!---
