@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandres2
-- 🌱 I’m currently learning: DAX Functions and MS Portals
+- 🌱 I’m currently learning: DAX Functions and Microsoft Portals
 - 📫 How to reach me: limbo.linux.dev@gmail.com
 
 <!---
