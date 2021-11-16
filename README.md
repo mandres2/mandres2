@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mandres2
-- 🌱 I’m currently learning: TypeScript/JS
 - 📫 How to reach me: limbo.linux.dev@gmail.com
 
 <!---
