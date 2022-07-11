@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @mandres2
+- 📖 Working on: Data Structure and Algorithms
+- ⌨️ Latest Project: MERN Stack - Workout Tracker Application
 
 <!---
 mandres2/mandres2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
