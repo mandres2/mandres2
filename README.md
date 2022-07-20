@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mandres2
-- 📖 Working on: Data Structure and Algorithms
+- 📖 Working on: Java SE 8 - 1Z0-808
+- ✔️ Completed: Data Structures & Algorithms JavaScript
 - ⌨️ Latest Project: MERN Stack - Workout Tracker Application
 
 <!---
