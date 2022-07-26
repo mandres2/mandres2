@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandres2
-- 📖 Working on: Java SE 8 - 1Z0-808
+- 📖 Working on: Learning Python 3
 - ✔️ Completed: Data Structures & Algorithms JavaScript
 - ⌨️ Latest Project: MERN Stack - Workout Tracker Application
 
