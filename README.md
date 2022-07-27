@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandres2
-- 📖 Working on: Learning Python 3
+- 📖 Working on: Data Structures & Algorithms Python
 - ✔️ Completed: Data Structures & Algorithms JavaScript
 - ⌨️ Latest Project: MERN Stack - Workout Tracker Application
 
