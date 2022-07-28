@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @mandres2
 - 📖 Working on: Data Structures & Algorithms Python
 - ✔️ Completed: Data Structures & Algorithms JavaScript
-- ⌨️ Latest Project: MERN Stack - Workout Tracker Application
+- ⌨️ Latest Project(s): 
+    * Caesar Cipher
+    * MERN Stack - Workout Tracker Application
 
 <!---
 mandres2/mandres2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
