@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandres2
-- 📖 Working on: Data Structures & Algorithms Python
+- 📖 Working on: DSAs Python & Programming I LeetCode
 - ✔️ Completed: Data Structures & Algorithms JavaScript
 - ⌨️ Latest Project(s): 
     * Caesar Cipher
