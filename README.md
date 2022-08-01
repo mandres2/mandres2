@@ -2,7 +2,9 @@
 - 📖 Working on: DSAs Python & Programming I LeetCode
 - ✔️ Completed: Data Structures & Algorithms JavaScript
 - ⌨️ Latest Project(s): 
-    * Caesar Cipher
+    * Python - Numbers Guessing Game
+    * Python - BlackJack
+    * Python - Caesar Cipher
     * MERN Stack - Workout Tracker Application
 
 <!---
