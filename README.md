@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandres2
-- 📖 Working on: DSAs Python & Programming I LeetCode
+- 📖 Working on: DSAs Python & Programming III LeetCode
 - ✔️ Completed: Data Structures & Algorithms (DSAs) JavaScript
 - ⌨️ Latest Project(s):
     * Python - Turtle - Spirograph, Random Walk
