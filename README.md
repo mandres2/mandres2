@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @mandres2
 - 📖 Working on: 
-    * Snake Game
     * DSAs Python
     * Programming III LeetCode
 - ✔️ Latest Certificate Completed: Data Structures & Algorithms (DSAs) JavaScript
 - ⌨️ Latest Project(s):
+    * Python - Snake Game
+    * Python - Etch-and-Sketch
     * Python - Turtle Race
     * Python - Hirst Frame
     * Python - Turtle - Spirograph, Random Walk
