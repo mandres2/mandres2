@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mandres2
 - 📖 Working on: 
-    * DSAs Python
-    * Programming III LeetCode
+    * LeetCode Problems
 - ✔️ Latest Certificate Completed: Data Structures & Algorithms (DSAs) JavaScript
 - ⌨️ Latest Project(s):
     * Python - Snake Game
