@@ -33,12 +33,12 @@
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="./blobs/language/html.svg" />
-				<br />HTML
-			</td>
-			<td align="center" width="96">
 				<img align="center" alt="CSS3" width="30px" src="./blobs/language/css.svg" />
 				<br />CSS
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="HTML5" width="30px" src="./blobs/language/html.svg" />
+				<br />HTML
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="Java" width="30px" src="./blobs/language/java.svg" />
@@ -48,14 +48,14 @@
 				<img align="center" alt="JS" width="30px" src="./blobs/language/javascript-rounded.svg" />
 				<br />JS
 			</td>
+			<td align="center" width="96">
+				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
+				<br />NodeJS
+			</td>
 		<tr align="center">
 			<td align="center" width="96">
 				<img align="center" alt="Python" width="30px" src="./blobs/language/python.svg" />
 				<br />Python
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
-				<br />NodeJS
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
