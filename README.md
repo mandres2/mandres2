@@ -114,6 +114,11 @@
 			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=mandres2&langs_count=10&layout=compact&theme=calm_cus&bg_color=0D1117&hide_border=true">
 			</a>
 		</td>
+		<td align="center">
+			<a href="#go-nowhere">
+			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandres2&theme=light&hide_border=true&fire=red&sideNums=red">
+			</a>
+		</td>
 	</table>
 <hr />
 
