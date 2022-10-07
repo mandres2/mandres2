@@ -10,6 +10,12 @@
 </p>
 <hr />
 
+<!-- Streak -->
+<p align="center">
+<a href="#NoRoute">
+<img align="center" src="https://github-readme-streak-stats-production.up.railway.app/?user=devhiteshk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=0D1117" alt="My Git stats" />
+</a>
+</p>
 
 <!-- Activity graph -->
 <p align="center">
@@ -25,28 +31,28 @@
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="blobs/languages/html.svg" />
+				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
 				<br />HTML
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="CSS3" width="30px" src="blobs/languages/css.svg" />
+				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
 				<br />CSS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="JS" width="30px" src="blobs/languages/javascript-rounded.svg" />
+				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
 				<br />JS
 			</td>
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="Python" width="30px" src="blobs/languages/python.svg" />
+				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
 				<br />Python
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="NodeJS" width="30px" src="blobs/libraries/nodejs.svg" />
+				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
 				<br />NodeJS
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="blobs/libraries/react.svg" />
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
 				<br />React
 			</td>
 		</tr>
