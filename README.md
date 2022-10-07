@@ -69,20 +69,28 @@
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
-				<br />MongoDB
+				<img align="center" alt="firebase" width="30px" src="./blobs/tools/firebase.svg" />
+				<br />Firebase
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="heroku" width="30px" src="./blobs/tools/heroku.svg" />
 				<br />Heroku
 			</td>
 			<td align="center" width="96">
+				<img align="center" alt="mongodb" width="30px" src="./blobs/tools/mongodb.svg" />
+				<br />MongoDB
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="mysql" width="30px" src="./blobs/tools/mysql.svg" />
+				<br />MySQL
+			</td>
+			<td align="center" width="96">
 				<img align="center" alt="prettier" width="30px" src="./blobs/tools/prettier.svg" />
 				<br />Prettier
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="eslint" width="30px" src="./blobs/tools/eslint.svg" />
-				<br />ESlint
+				<img align="center" alt="sequelize" width="30px" src="./blobs/tools/sequelize.svg" />
+				<br />Sequelize
 			</td>
 		</tr>
 	</table>
