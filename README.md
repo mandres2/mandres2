@@ -31,7 +31,7 @@
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+				<img align="center" alt="HTML5" width="30px" src="../blobs/languages/html.svg" />
 				<br />HTML
 			</td>
 			<td align="center" width="96">
