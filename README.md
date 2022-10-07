@@ -38,7 +38,6 @@
 				<img align="center" alt="CSS3" width="30px" src="./blobs/language/css.svg" />
 				<br />CSS
 			</td>
-			<td>
 			<td align="center" width="96">
 				<img align="center" alt="Java" width="30px" src="./blobs/language/java.svg" />
 				<br />Java
