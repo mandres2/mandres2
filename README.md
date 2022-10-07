@@ -92,11 +92,13 @@
 <h3 align="center">What do I do?<h3>
 	<table align="center">
 		<tr>
+		<!--
 		<td align="center">
 		 <a href="#go-nowhere">
 			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/wakatime?username=mandres2&theme=calm_cus&bg_color=0D1117&hide_border=true&langs_count=10&v=1">
 			</a>
 		</td>
+		 -->
 		<td align="center">
 		 <a href="#go-nowhere">
 			<img align="center" src="https://github-readme-stats-thexcaliber.vercel.app/api/top-langs/?username=mandres2&langs_count=10&layout=compact&theme=calm_cus&bg_color=0D1117&hide_border=true">
