@@ -1,4 +1,4 @@
-<p align="center">Micah Andres - Software Engineer | MERN Stack</p>
+<p align="center">Micah Andres | Software Engineer | University of Washington | MERN Stack</p>
 
 <p align="center">
 	<a href="mailto:limbo.linux.dev@gmail.com" target="_blank" align="center">Send Email</a> |
@@ -64,7 +64,7 @@
 		</tr>
 	</table>
 	</p><hr>
-	<h3 align="center">Tools and other stuff</h3>
+	<h3 align="center">Tools</h3>
 	<p align="center">
 	<table align="center">
 		<tr align="center">
@@ -89,7 +89,7 @@
 	</p>
 	<hr />
 
-<h3 align="center">What do I do?<h3>
+<h3 align="center"><h3>
 	<table align="center">
 		<tr>
 		<!--
