@@ -52,6 +52,7 @@
 				<img align="center" alt="NodeJS" width="30px" src="./blobs/libraries/nodejs.svg" />
 				<br />NodeJS
 			</td>
+		</tr>
 		<tr align="center">
 			<td align="center" width="96">
 				<img align="center" alt="Python" width="30px" src="./blobs/language/python.svg" />
