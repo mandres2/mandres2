@@ -31,20 +31,25 @@
 	<table align="center">
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="HTML5" width="30px" src="./blobs/languages/html.svg" />
+				<img align="center" alt="HTML5" width="30px" src="./blobs/language/html.svg" />
 				<br />HTML
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="CSS3" width="30px" src="./blobs/languages/css.svg" />
+				<img align="center" alt="CSS3" width="30px" src="./blobs/language/css.svg" />
 				<br />CSS
 			</td>
+			<td>
 			<td align="center" width="96">
-				<img align="center" alt="JS" width="30px" src="./blobs/languages/javascript-rounded.svg" />
+				<img align="center" alt="Java" width="30px" src="./blobs/language/java.svg" />
+				<br />Java
+			</td>
+			<td align="center" width="96">
+				<img align="center" alt="JS" width="30px" src="./blobs/language/javascript-rounded.svg" />
 				<br />JS
 			</td>
 		<tr align="center">
 			<td align="center" width="96">
-				<img align="center" alt="Python" width="30px" src="./blobs/languages/python.svg" />
+				<img align="center" alt="Python" width="30px" src="./blobs/language/python.svg" />
 				<br />Python
 			</td>
 			<td align="center" width="96">
