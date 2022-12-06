@@ -21,11 +21,15 @@
  -->
 
 <!-- Activity graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mandres2&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--
 <p align="center">
 <a href="#NoRoute">
 <img align="center" src="https://activity-graph-devhk.herokuapp.com/graph?username=mandres2&theme=holi-theme&bg_color=0D1117&color=ffffff&point=ffffff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true%22%20alt=%22My%20monthly%20coding%20activity%22" alt="My monthly coding activity" />
 </a>
 </p>
+-->
 
 <br />
 
