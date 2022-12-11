@@ -1,4 +1,4 @@
-<p align="center">Micah Andres | Cybersecurity Analyst | University of Washington | MERN Stack</p>
+<p align="center">Micah Andres | Security Analyst | University of Washington | MERN Stack</p>
 
 <p align="center">
 	<a href="mailto:limbo.linux.dev@gmail.com" target="_blank" align="center">Send Email</a> |
