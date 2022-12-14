@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="mailto:limbo.linux.dev@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://mandres2.github.io/SDE_Portfolio.io/" target="_blank" align="center">Portfolio</a> |
+	<a href="https://mandres2.github.io/minimalPortfolio/" target="_blank" align="center">Portfolio</a> |
 	<a href="https://leetcode.com/salmon_is_decent/" target="_blank" align="center">LeetCode</a> <!-- |
 </p>
 
