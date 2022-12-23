@@ -46,7 +46,7 @@
 				<br />HTML
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="C++" width="30px" src="./blobs/language/ISO_C++_Logo.svg" />
+				<img align="center" alt="C++" width="30px" src="./blobs/language/cpp_logo.svg" />
 				<br />C++
 			</td>
 			<td align="center" width="96">
