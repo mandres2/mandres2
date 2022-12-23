@@ -46,6 +46,10 @@
 				<br />HTML
 			</td>
 			<td align="center" width="96">
+				<img align="center" alt="C++" width="30px" src="./blobs/language/ISO_C++_Logo.svg" />
+				<br />C++
+			</td>
+			<td align="center" width="96">
 				<img align="center" alt="Java" width="30px" src="./blobs/language/java.svg" />
 				<br />Java
 			</td>
