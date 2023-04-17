@@ -50,10 +50,6 @@
 				<br />C++
 			</td>
 			<td align="center" width="96">
-				<img align="center" alt="Java" width="30px" src="./blobs/language/java.svg" />
-				<br />Java
-			</td>
-			<td align="center" width="96">
 				<img align="center" alt="JS" width="30px" src="./blobs/language/javascript-rounded.svg" />
 				<br />JS
 			</td>
