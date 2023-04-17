@@ -3,22 +3,7 @@
 <p align="center">
 	<a href="mailto:limbo.linux.dev@gmail.com" target="_blank" align="center">Send Email</a> |
 	<a href="https://mandres2.github.io/minimalPortfolio/" target="_blank" align="center">Portfolio</a> |
-	<a href="https://leetcode.com/salmon_is_decent/" target="_blank" align="center">LeetCode</a> <!-- |
-</p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-</p>
-<hr />
-
-<!-- Streak -->
-<!--
-<p align="center">
-<a href="#NoRoute">
-<img align="center" src="https://github-readme-streak-stats-production.up.railway.app/?user=devhiteshk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DDDDDD&ring=DD9F12&fire=DD2727&currStreakNum=BDDD19&sideNums=DDDDDD&sideLabels=96DD52&currStreakLabel=74DDCF&dates=DDDDDD&background=0D1117" alt="My Git stats" />
-</a>
-</p>
- -->
+	<a href="https://leetcode.com/salmon_is_decent/" target="_blank" align="center">LeetCode</a> 
 
 <!-- Activity graph -->
 [![Micah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mandres2&theme=nord)](https://github.com/mandres2/github-readme-activity-graph)
