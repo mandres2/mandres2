@@ -21,7 +21,7 @@
  -->
 
 <!-- Activity graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mandres2&theme=nord)](https://github.com/mandres2/github-readme-activity-graph)
+[![Micah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mandres2&theme=nord)](https://github.com/mandres2/github-readme-activity-graph)
 
 <!--
 <p align="center">
