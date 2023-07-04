@@ -6,7 +6,7 @@
 	<a href="https://leetcode.com/salmon_is_decent/" target="_blank" align="center">LeetCode</a> 
 
 <!-- Activity graph -->
-[![Micah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mandres2&theme=nord)](https://github.com/mandres2/github-readme-activity-graph)
+[![Micah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mandres2&theme=material)](https://github.com/mandres2/github-readme-activity-graph)
 
 <!--
 <p align="center">
