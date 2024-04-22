@@ -41,16 +41,16 @@
 		</tr>
 		<tr align="center">
 			<td align="center" width="96">
+				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
+				<br />React
+			</td>
+			<td align="center" width="96">
 				<img align="center" alt="C++" width="30px" src="./blobs/language/c-1.svg">
 				<br />C
 			</td>
 			<td align="center" width="96">
 				<img align="center" alt="Python" width="30px" src="./blobs/language/python.svg" />
 				<br />Python
-			</td>
-			<td align="center" width="96">
-				<img align="center" alt="React" width="30px" src="./blobs/libraries/react.svg" />
-				<br />React
 			</td>
 		</tr>
 	</table>
