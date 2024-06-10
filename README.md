@@ -55,7 +55,7 @@
 		</tr>
 	</table>
 	</p><hr>
-	<h3 align="center">Tools</h3>
+	<h3 align="center">Developer Tools</h3>
 	<p align="center">
 	<table align="center">
 		<tr align="center">
