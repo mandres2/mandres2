@@ -1,4 +1,4 @@
-<p align="center">Micah Andres | IT Cybersecurity Specialist | Department of Defense | MERN & LAMP Stack</p>
+<p align="center">Micah Andres | IT Specialist (NETWORK) | Department of Defense | MERN & LAMP Stack</p>
 
 <p align="center">
 	<a href="mailto:micah.l.andres.civ@mail.mil" target="_blank" align="center">Send Email</a> |
