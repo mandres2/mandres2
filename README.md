@@ -1,4 +1,4 @@
-<p align="center">Micah Andres | Response Analyst | Department of War
+<p align="center">Micah Andres
 <p align="center">
 	<a href="mailto:micah.l.andres.civ@mail.mil" target="_blank" align="center">Send Email</a> |
 	<a href="https://mandres2.github.io/minimalPortfolio/" target="_blank" align="center">Portfolio</a> |
